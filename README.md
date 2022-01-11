@@ -2,6 +2,13 @@
 
 Winter Hackathon submission that matches user with food banks to donate items to 
 
+## Overview
+
+Web Application that allows user to match with foodbanks based on what item is input
+
+## Function
+User can state what item they wish to donate and they will then be matched with a corresponding foodbank
+
 ## Authors
 
 - [ThanushanP](https://github.com/ThanushanP)
@@ -14,6 +21,12 @@ Winter Hackathon submission that matches user with food banks to donate items to
 https://youtu.be/eCVMVgitwE4?t=35 
 
 Or on deployment 
+
+## Features
+
+- Search food item to find bank
+- Learn more about each food bank
+- View food bank on Map API
 
 ## API Reference
 
