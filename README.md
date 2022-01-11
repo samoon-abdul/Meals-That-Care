@@ -11,7 +11,7 @@ User can state what item they wish to donate and they will then be matched with 
 
 ## Authors
 
-- [ThanushanP](https://github.com/ThanushanP)
+- [@ThanushanP](https://github.com/ThanushanP)
 - [@hjanday](https://github.com/hjanday)
 - [@Ammadq87](https://github.com/Ammadq87)
 - [@NicholasL1](https://github.com/NicholasL1)
