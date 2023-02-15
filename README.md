@@ -18,9 +18,7 @@ User can state what item they wish to donate and they will then be matched with 
 - [@samoon-abdul](https://github.com/samoon-abdul)
 ## Demo
 
-https://youtu.be/eCVMVgitwE4?t=35 
-
-Or on deployment 
+On deployment 
 
 ## Features
 
